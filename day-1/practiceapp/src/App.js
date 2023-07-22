@@ -13,6 +13,12 @@ function App() {
       sname="Disney Plus Hotstar"
       title="Aladdin"
       link="https://www.hotstar.com/in/movies/aladdin/1260014815" />
+
+      <Card imgSrc="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq-gV5vApcQyCRKtamXenVl4flCF1N27By3Q&usqp=CAU"
+      sname="Disney Plus Hotstar"
+      title="IB71"
+      link="https://www.hotstar.com/in/movies/ib71/1260143875?filters=content_type%3Dmovie" />
+
     </>
   );
 }

@@ -4,12 +4,26 @@
   box-sizing: border-box;
 }
 
+.heading_style{
+  padding: 30px 0;
+  text-align: center;
+  font-family: "cursive";
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 500;
+  font-size: 1.5rem;
+  margin-bottom: 30px;
+  background-color: white;
+  color: black;
 
+}
 .cards{
   width: 100%;
   height: auto;
 }
-
+.heading{
+  color: aqua;
+}
 .card{
   margin: 6%;
   transition: all 0.4s cubic-bezier(0.175,0.885,0,1);

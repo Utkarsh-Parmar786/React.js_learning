@@ -11,7 +11,8 @@ function App() {
      
       {Hdata.map((val)=>{
         return(
-        <Card imgSrc={val.imgSrc} 
+        <Card key={val.id}
+              imgSrc={val.imgSrc} 
               sname={val.sname}
               title = {val.title} 
               link = {val.link} />
